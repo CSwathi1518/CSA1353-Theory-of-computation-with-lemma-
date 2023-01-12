@@ -8,4 +8,7 @@
 9.PDA a^nb^n,
 10.TM String comparison,
 11.TM Subtraction .
-12.TM a^nb^2n
+12.TM a^nb^2n.
+13.DFA  satrt with a or b.
+14.DFA end with ab.
+15.DFA start with a and end with b.

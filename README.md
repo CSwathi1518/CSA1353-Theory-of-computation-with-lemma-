@@ -12,3 +12,5 @@
 13.DFA  satrt with a or b.
 14.DFA end with ab.
 15.DFA start with a and end with b.
+16,TM ww.
+17.DFA sub string ab.

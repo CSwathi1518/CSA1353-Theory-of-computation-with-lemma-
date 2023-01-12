@@ -8,3 +8,4 @@
 9.PDA a^nb^n,
 10.TM String comparison,
 11.TM Subtraction .
+12.TM a^nb^2n
